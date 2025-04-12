@@ -34,7 +34,7 @@ Navigate to the project directory and run:
 Create a `.env` file in the root of your project and add your OpenAI API key:
 
 ```
-  VITE_OPENAI_API_KEY=your_openai_api_key_here
+  OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-Replace `your_openai_api_key_here` with your actual OpenAI API key.
+Replace `your_openai_api_key_her` with your actual OpenAI API key.
